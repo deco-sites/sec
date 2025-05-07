@@ -68,5 +68,11 @@
   },
   "flavor": {
     "framework": "htmx"
-  }
+  },
+  "whilelistURLs": [
+    "https://fonts.gstatic.com/*",
+    "https://assets.decocache.com/storefront/*",
+    "https://cdn.shopify.com/s/files/1/0584/*"
+  ],
+  "whitelistPatterns": []
 }
